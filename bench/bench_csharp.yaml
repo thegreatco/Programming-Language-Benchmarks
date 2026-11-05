@@ -46,6 +46,7 @@ problems:
     source:
       - 1.cs
       - 2.cs
+      - 3.cs
   - name: coro-prime-sieve
     source:
       - 1.cs
